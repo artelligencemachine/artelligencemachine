@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @artelligencemachine, professional Software Developer.
+- 👋 Hi, I’m @artelligencemachine, a professional Software Developer.
+- 💻 I'm a content creator and like to teach on YouTube.
 - 👀 I’m interested in C++, Software Engineering, Machine Learning.
 - 🌱 I’m currently working on many projects.
 - 💞️ I’m looking for support and love on my YouTube channel.
